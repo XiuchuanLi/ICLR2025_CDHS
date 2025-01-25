@@ -1,3 +1,5 @@
+# Recovery of Causal Graph Involving Latent Variables via Homologous Surrogates
+
 This repository is the official implementation of [Recovery of Causal Graph Involving Latent Variables via Homologous Surrogates].
 
 ## Usage
