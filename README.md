@@ -39,6 +39,6 @@ If you have used our work in your own, please consider citing:
   title={Recovery of Causal Graph Involving Latent Variables via Homologous Surrogates},
   author={Li, Xiu-Chuan and Wang, Jun and Liu, Tongliang},
   booktitle={International Conference on Learning Representations},
-  year={2025},
+  year={2025}
 }
 ```
